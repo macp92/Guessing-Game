@@ -1,0 +1,14 @@
+html {
+    text-align: center;
+    background-color: teal
+    /* text-decoration: border white */
+}
+ul {
+    display: inline-block;
+    width: 425px;
+    text-align: left;
+}
+ul div{
+    text-align: center;
+    /* background-color: aqua */
+}
